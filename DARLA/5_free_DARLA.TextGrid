@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.00000
+xmax = 2.37350
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence - phones"
+		xmin = 0.00000
+		xmax = 2.37350
+		intervals: size = 24
+			intervals [1]:
+				xmin = 0.00000
+				xmax = 0.17120
+				text = ""
+			intervals [2]:
+				xmin = 0.17120
+				xmax = 0.23120
+				text = "M"
+			intervals [3]:
+				xmin = 0.23120
+				xmax = 0.34120
+				text = "AY1"
+			intervals [4]:
+				xmin = 0.34120
+				xmax = 0.44120
+				text = "M"
+			intervals [5]:
+				xmin = 0.44120
+				xmax = 0.52120
+				text = "AA1"
+			intervals [6]:
+				xmin = 0.52120
+				xmax = 0.59120
+				text = "M"
+			intervals [7]:
+				xmin = 0.59120
+				xmax = 0.68120
+				text = "AH0"
+			intervals [8]:
+				xmin = 0.68120
+				xmax = 0.81120
+				text = "M"
+			intervals [9]:
+				xmin = 0.81120
+				xmax = 0.89120
+				text = "EY1"
+			intervals [10]:
+				xmin = 0.89120
+				xmax = 1.00120
+				text = "K"
+			intervals [11]:
+				xmin = 1.00120
+				xmax = 1.17120
+				text = "S"
+			intervals [12]:
+				xmin = 1.17120
+				xmax = 1.22120
+				text = "L"
+			intervals [13]:
+				xmin = 1.22120
+				xmax = 1.28120
+				text = "EH1"
+			intervals [14]:
+				xmin = 1.28120
+				xmax = 1.36120
+				text = "M"
+			intervals [15]:
+				xmin = 1.36120
+				xmax = 1.41120
+				text = "AH0"
+			intervals [16]:
+				xmin = 1.41120
+				xmax = 1.51120
+				text = "N"
+			intervals [17]:
+				xmin = 1.51120
+				xmax = 1.57120
+				text = "M"
+			intervals [18]:
+				xmin = 1.57120
+				xmax = 1.66120
+				text = "AH1"
+			intervals [19]:
+				xmin = 1.66120
+				xmax = 1.79120
+				text = "F"
+			intervals [20]:
+				xmin = 1.79120
+				xmax = 1.83120
+				text = "AH0"
+			intervals [21]:
+				xmin = 1.83120
+				xmax = 1.95120
+				text = "N"
+			intervals [22]:
+				xmin = 1.95120
+				xmax = 2.10120
+				text = "Z"
+			intervals [23]:
+				xmin = 2.10120
+				xmax = 2.13120
+				text = "sp"
+			intervals [24]:
+				xmin = 2.13120
+				xmax = 2.37350
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence - words"
+		xmin = 0.00000
+		xmax = 2.37350
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.00000
+				xmax = 0.17120
+				text = ""
+			intervals [2]:
+				xmin = 0.17120
+				xmax = 0.34120
+				text = "my"
+			intervals [3]:
+				xmin = 0.34120
+				xmax = 0.68120
+				text = "mamma"
+			intervals [4]:
+				xmin = 0.68120
+				xmax = 1.17120
+				text = "makes"
+			intervals [5]:
+				xmin = 1.17120
+				xmax = 1.51120
+				text = "lemon"
+			intervals [6]:
+				xmin = 1.51120
+				xmax = 2.10120
+				text = "muffins"
+			intervals [7]:
+				xmin = 2.10120
+				xmax = 2.37350
+				text = ""
